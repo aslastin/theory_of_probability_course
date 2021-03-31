@@ -12,7 +12,7 @@
 
 - [Лекция 1](https://www.youtube.com/watch?v=eTd8n_nItSs&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=1&t=1s) - __Вероятностные модели, условные вероятности и независимость__
     - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec1.pdf)
-    - [Практика](https://www.youtube.com/watch?v=Zz_vCp5ss6o&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=2)
+    - __Практика__: [Условие]() [Разбор](https://www.youtube.com/watch?v=Zz_vCp5ss6o&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=2)
 
 - [Лекция 2](https://www.youtube.com/watch?v=x3KTIIH92yE&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=3) - __Дискретные случайные величины__ - случайные величины, функции вероятности, распределения, математическое ожидание, дисперсия
     - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec2.pdf)
