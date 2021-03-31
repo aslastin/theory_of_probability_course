@@ -10,13 +10,13 @@
 
 ## Лекции
 
-- [Лекция 1](https://www.youtube.com/watch?v=eTd8n_nItSs&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=1&t=1s) - __Вероятностные модели, условные вероятности и независимость__
+- [Лекция 1](https://www.youtube.com/watch?v=eTd8n_nItSs&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=1&t=1s) - __Вероятностные модели, условные вероятности и независимость__ - условная вероятность, правило полной вероятности, формула Байеса, независимость, условная независимость
     - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec1.pdf)
     - _Практика_
         - [Условие](https://github.com/aslastin/theory_of_probability/blob/main/practice-conditions/homework1.pdf)
         - [Разбор](https://www.youtube.com/watch?v=PIrpXJeLYhE&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=4)
 
-- [Лекция 2](https://www.youtube.com/watch?v=x3KTIIH92yE&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=3) - __Дискретные случайные величины__ - случайные величины, функции вероятности, распределения, математическое ожидание, дисперсия
+- [Лекция 2](https://www.youtube.com/watch?v=x3KTIIH92yE&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=3) - __Дискретные случайные величины__ - случайные величины, функция вероятности, распределения, математическое ожидание, дисперсия, теорема о полном матожидании
     - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec2.pdf)
     - _Практика_ 
         - [Условие](https://github.com/aslastin/theory_of_probability/blob/main/practice-conditions/homework2.pdf)
