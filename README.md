@@ -22,13 +22,14 @@
         - [Условие](https://github.com/aslastin/theory_of_probability/blob/main/practice-conditions/homework2.pdf)
         - [Разбор](https://www.youtube.com/watch?v=q9BDxk19mr4&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=7)
 
-- [Лекция 3](https://www.youtube.com/watch?v=8XPTVSrJ0IM&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=6) - __Остаток про дискретные случайные величины__ - случайный вектор, случайная величина условная от другой случайной величины, независимость случайных величин
+- [Лекция 3](https://www.youtube.com/watch?v=8XPTVSrJ0IM&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=6) - __Остаток про дискретные случайные величины__ - случайный вектор, случайная величина условная от другой случайной величины, условное матожидание, независимость случайных величин
     - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec3.pdf)
     - _Практика_ 
         - [Условие](https://github.com/aslastin/theory_of_probability/blob/main/practice-conditions/homework3.pdf)
         - [Разбор](https://www.youtube.com/watch?v=f6I_CgIqZec&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=9)
 
-- [Лекция 4](https://www.youtube.com/watch?v=DM8BWbAlybs&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=8) - __Непрерывные случайные величины__ - непрерывные случайные величины, матожидание, дисперсия, моменты стандартных распределений, функция распределения, нормальное распределение
+- [Лекция 4](https://www.youtube.com/watch?v=DM8BWbAlybs&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=8) - __Непрерывные случайные величины__ - непрерывные случайные величины, матожидание/дисперсия непрерывных случайных величин, моменты стандартных распределений, функция распределения, нормальное распределение
     - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec4.pdf)
-    - [Практика](https://www.youtube.com/watch?v=f6I_CgIqZec&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=9)
-
+    - _Практика_ 
+        - [Условие](https://github.com/aslastin/theory_of_probability/blob/main/practice-conditions/homework4.pdf)
+        - [Разбор](https://www.youtube.com/watch?v=hdptcnB_FvE&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=11)
