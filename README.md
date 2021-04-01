@@ -28,8 +28,18 @@
         - [Условие](https://github.com/aslastin/theory_of_probability/blob/main/practice-conditions/homework3.pdf)
         - [Разбор](https://www.youtube.com/watch?v=f6I_CgIqZec&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=9)
 
-- [Лекция 4](https://www.youtube.com/watch?v=DM8BWbAlybs&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=8) - __Непрерывные случайные величины__ - непрерывные случайные величины, матожидание/дисперсия непрерывных случайных величин, моменты стандартных распределений, функция распределения, нормальное распределение
+- [Лекция 4](https://www.youtube.com/watch?v=DM8BWbAlybs&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=8) - __Непрерывные случайные величины. Часть 1__ - непрерывные случайные величины, матожидание/дисперсия непрерывных случайных величин, моменты стандартных распределений, функция распределения, нормальное распределение
     - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec4.pdf)
     - _Практика_ 
         - [Условие](https://github.com/aslastin/theory_of_probability/blob/main/practice-conditions/homework4.pdf)
         - [Разбор](https://www.youtube.com/watch?v=hdptcnB_FvE&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=11)
+
+- [Лекция 5](https://www.youtube.com/watch?v=oCn_Utrfl8I&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=10) - __Непрерывные случайные величины. Часть 2__ - условная плотность вероятности, условное матожидание, беспамятство экспоненциального распределения, полные вероятность и матожидание, смешанные распределения, векторы из непрерывных с.в., маргинальные распределения, совместная функция распределения, с.в., условные на других с.в.
+    - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec5.pdf)
+
+- [Лекция 6](https://www.youtube.com/watch?v=47dphP4ep8w&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=12) - __Непрерывные случайные величины. Часть 3__ - независимость с.в., пример независимых с.в., пример про зависимые с.в., независимые нормальные распределения, Формула Байеса для случайных величин, линейные функции от с.в.
+    - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec6.pdf)
+
+- [Лекция 7](https://www.youtube.com/watch?v=Q8-Hbx8YVCg&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=14) - __Функции от с.в.__ - линейные преобразования, нелинейные преобразования, функции от нескольких с.в., эмитация одного распределения другим, ковариация, свойства ковариации
+    - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec7.pdf)
+
