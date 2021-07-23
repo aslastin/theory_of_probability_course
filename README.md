@@ -9,7 +9,7 @@
     - [Конспект](https://github.com/aslastin/theory_of_probability/blob/main/lectures/lec1.pdf)
 
 - Домашнее задание
-    - [Разбор](https://www.youtube.com/watch?v=Zz_vCp5ss6o&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=3)
+    - [Разбор](https://www.youtube.com/watch?v=Zz_vCp5ss6o&list=PLB2iTb0TReMh2M1URpUmjK8AZE-lS5DA9&index=2)
     - [Условие](https://github.com/aslastin/theory_of_probability/blob/main/hw-conditions/hw1.pdf)
     - [Решение](https://github.com/aslastin/theory_of_probability/blob/main/hw-solutions/hw1.pdf)
 
